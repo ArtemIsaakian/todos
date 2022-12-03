@@ -1,0 +1,9 @@
+$font: 'Roboto Serif', sans-serif;
+$width-display: 800px;
+
+.todosApp {
+  font-family: $font;
+  max-width: $width-display;
+  width: 100%;
+  margin: 0 auto;
+}
